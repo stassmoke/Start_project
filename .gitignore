@@ -1,13 +1,4 @@
 /node_modules/
-/dist/
-/app/css/
-/**/*.psd
-/**/Thumbs.db
 .DS_Store
-fonts/
-ht.access
-img/
-index.html
-js/
-libs/
-sass/
+
+
